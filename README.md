@@ -5,12 +5,12 @@ iCaRL paper. Eventually, our extensions of iCaRL lead to a model achieving a bet
 
 The repository contains the code for Incremental Learning project. In the master branch, the files contains:
 
-  -FineTuning -> Fine Tuning version; 
-  -LWF -> LWF version; 
-  -ICaRLMain ICaRL;
+  - FineTuning -> Fine Tuning version; 
+  - LWF -> LWF version; 
+  - ICaRLMain ICaRL;
 
 New proposal and Ablation studies are available in different branches:
 
-  -Loss---* branches with different proposals of losses.
-  -Classifier---* are branches with different proposals of classifiers.
-  -Proposals---* are branches with different approaches followed in the study.
+  - Loss---* branches with different proposals of losses.
+  - Classifier---* are branches with different proposals of classifiers.
+  - Proposals---* are branches with different approaches followed in the study.
